@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\aidan\desktop\13489648aidangoyoop\13489648aidangoyoop\main.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  13489648AidanGoyOOP.vcxproj -> C:\Users\aidan\Desktop\13489648AidanGoyOOP\Debug\13489648AidanGoyOOP.exe
